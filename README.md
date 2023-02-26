@@ -1,2 +1,1 @@
-# sand-model
-sandfall
+# Модель обвала песка
